@@ -19,7 +19,7 @@ body{
 
 .outside{
     
-    background-image: url(/surfer-wave-sunlight-bright-art.jpg);
+    background-image: url(surfer-wave-sunlight-bright-art.jpg);
     background-size: cover;
     background-position: center;
     position: fixed;
